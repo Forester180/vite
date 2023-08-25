@@ -14,7 +14,7 @@ function Main() {
       <div className={styles.main_wrapper}>
         <div className={styles.main_text}>
           <CardImg>
-            <Title title={`Потеряться - не значит пропасть!`} />
+            <Title title={`Потеряться - не значит пропасть&`} />
             <Subtitle
               subtitle={`Поисково-спасательный отряд «Добрый Лис» ищет тех, кто потерялся в лесу и городе.`}
             />
